@@ -32,7 +32,7 @@ Tools\Commands\asy=asy.exe ?m*.asy
 Tools\Commands\gs=\"C:\\Program Files (x86)\\gs\\gs9.07\\bin\\gswin32c.exe\" \"?am.ps\"
 Tools\Commands\latexmk="latexmk.exe -pdf -silent -synctex=1 %"
 Tools\Commands\quick=txs:///compile | txs:///view
-Tools\Commands\compile=txs:///pdflatex
+Tools\Commands\compile=txs:///pdflatex --shell-escape
 Tools\Commands\view=txs:///view-pdf
 Tools\Commands\view-pdf=txs:///view-pdf-internal --windowed
 Tools\Commands\bibliography=txs:///biber
