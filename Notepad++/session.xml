@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="664" startPos="1124" endPos="1124" selMode="0" lang="XML" encoding="-1" filename="C:\git-projects\windows-setup-automation\packages.config" backupFilePath="" originalFileLastModifTimestamp="1523012167" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1008738336" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="672" startPos="42" endPos="42" selMode="0" lang="Normal Text" encoding="-1" filename="C:\git-projects\thesis-autonomous-driving-architecture\.gitignore" backupFilePath="" originalFileLastModifTimestamp="1522924355" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="33686018" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="437" xOffset="0" scrollWidth="1768" startPos="27605" endPos="25999" selMode="0" lang="PowerShell" encoding="-1" filename="C:\git-projects\windows-setup-automation\setup.ps1" backupFilePath="" originalFileLastModifTimestamp="1522494729" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="-1" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
